@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Nym02/Trillo#readme",
   "devDependencies": {
+    "build-css": "^0.2.0",
     "node-sass": "^4.13.0"
   }
 }
